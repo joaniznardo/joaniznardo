@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Primer Blog amb Hugo (static site generator)</title>
+    <title>Posts on devops week</title>
     <link>https://joaniznardo.github.io/posts/</link>
-    <description>Recent content in Posts on Primer Blog amb Hugo (static site generator)</description>
+    <description>Recent content in Posts on devops week</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2019 13:25:22 +0200</lastBuildDate>
