@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Primer Blog amb Hugo (static site generator)</title>
-    <link>https://joaniznardo.github.io/blog/</link>
+    <link>https://joaniznardo.github.io/</link>
     <description>Recent content on Primer Blog amb Hugo (static site generator)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2019 13:25:22 +0200</lastBuildDate>
     
-	<atom:link href="https://joaniznardo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joaniznardo.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>20190701-dilluns</title>
-      <link>https://joaniznardo.github.io/blog/posts/20190701dilluns/</link>
+      <link>https://joaniznardo.github.io/posts/20190701dilluns/</link>
       <pubDate>Sun, 30 Jun 2019 13:25:22 +0200</pubDate>
       
-      <guid>https://joaniznardo.github.io/blog/posts/20190701dilluns/</guid>
+      <guid>https://joaniznardo.github.io/posts/20190701dilluns/</guid>
       <description>Primer dia. Kenneth Peiruza al control.
 Primers descobriments (previs).
 - ús de submòduls a git: git module add
