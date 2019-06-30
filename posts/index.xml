@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Primer Blog amb Hugo (static site generator)</title>
+    <link>https://joaniznardo.github.io/blog/posts/</link>
+    <description>Recent content in Posts on Primer Blog amb Hugo (static site generator)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jun 2019 13:25:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://joaniznardo.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20190701-dilluns</title>
+      <link>https://joaniznardo.github.io/blog/posts/20190701dilluns/</link>
+      <pubDate>Sun, 30 Jun 2019 13:25:22 +0200</pubDate>
+      
+      <guid>https://joaniznardo.github.io/blog/posts/20190701dilluns/</guid>
+      <description>Primer dia. Kenneth Peiruza al control.
+Primers descobriments (previs).
+- ús de submòduls a git: git module add
+- a partir de la incorporació d&amp;rsquo;un tema de hugo (static site generator)
+markdown: sintaxis basica
+markdown everywhere
+online markdown
+git: xuleta git interactiva
+submòduls
+vim: xuleta</description>
+    </item>
+    
+  </channel>
+</rss>
