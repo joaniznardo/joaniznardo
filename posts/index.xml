@@ -6,10 +6,24 @@
     <description>Recent content in Posts on devops week</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2019 13:25:22 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 18:18:25 +0200</lastBuildDate>
     
 	<atom:link href="https://joaniznardo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>20190702 Dimarts</title>
+      <link>https://joaniznardo.github.io/posts/20190702-dimarts/</link>
+      <pubDate>Tue, 02 Jul 2019 18:18:25 +0200</pubDate>
+      
+      <guid>https://joaniznardo.github.io/posts/20190702-dimarts/</guid>
+      <description>Are you from the past? some bashing  history | cut -c8- | tee sequenciaflipant.sh  some docking  docker stats docker diff docker logs -f
+ atenció a: iptables -nvL FORWARD
+ paràmetres per defecte de docker: json config files!!
+ limitar el tamany i el nombre de logs  elk &amp;amp;&amp;amp; kibana
+ atenció a
+ WORKDIR ENTRYPOINT CMD   propostes per l&amp;rsquo;alumnat  contractar un vps i muntar el hosting d&amp;rsquo;un o més negocis  online.</description>
+    </item>
     
     <item>
       <title>20190701-dilluns</title>
