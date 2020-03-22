@@ -26,12 +26,12 @@ A la mateixa web tenim un enllaç a una demo.</description>
     </item>
     
     <item>
-      <title>Segon Post</title>
+      <title>Acta de constitució del projecte</title>
       <link>https://joaniznardo.github.io/posts/segon-post/</link>
       <pubDate>Tue, 17 Mar 2020 22:08:51 +0100</pubDate>
       
       <guid>https://joaniznardo.github.io/posts/segon-post/</guid>
-      <description>Acta de constitució de Projecte Seguint amb la construcció del projecte aquí us deixo de forma visual el que seria el document de compromís entre les parts implicades infografia exemple</description>
+      <description>El punt de partida! Seguint amb la construcció del projecte aquí us deixo de forma visual el que seria el document de compromís entre les parts implicades infografia exemple</description>
     </item>
     
     <item>
@@ -40,7 +40,8 @@ A la mateixa web tenim un enllaç a una demo.</description>
       <pubDate>Sun, 01 Mar 2020 21:55:39 +0100</pubDate>
       
       <guid>https://joaniznardo.github.io/posts/primer-post/</guid>
-      <description>Comencem etapa! PMBOK Una de les claus de les metodologies actives és el desenvolupament (planificació, execució, seguiment i control) del projecte/problema/repte. PMBOK és una eina que ens ajudarà en aquesta aventura de les metodologies actives.</description>
+      <description>Comencem etapa! PMBOK Una de les claus de les metodologies actives és el desenvolupament (planificació, execució, seguiment i control) del projecte/problema/repte.
+PMBOK és una eina que ens ajudarà en aquesta aventura de les metodologies actives.</description>
     </item>
     
   </channel>
